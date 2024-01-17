@@ -1,0 +1,31 @@
+.hero{
+    padding-top: 208px ;
+    padding-bottom: 100px;
+    background-image: url(../imagens/confete.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    &__text{
+        font-size: 40px;
+        line-height: 56px;
+        text-align: center;
+        font-family:lilita one;
+        color: #fff;
+        margin-bottom: 68px;
+
+        span{
+            font-family:lilita one;
+            color: #ffe240;
+        }
+    }
+
+    @media (max-width: 640px){
+        padding: 40px 0;
+
+        &__text{
+            font-size: 22px;
+            line-height: 24px;
+            margin: 24px 0;
+        }
+    }
+}
