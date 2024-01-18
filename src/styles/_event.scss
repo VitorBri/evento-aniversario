@@ -1,3 +1,6 @@
+@use 'variaveis';
+
+
 .event{
     padding: 80px 0;
     
@@ -22,7 +25,7 @@
             font-size: 26px;
             font-family: lilita one;
             margin-bottom: 16px;
-            color:#fc371d;
+            color:variaveis.$colorRed;
         }
         &__description{
             line-height: 22px;

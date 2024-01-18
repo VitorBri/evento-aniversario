@@ -1,10 +1,12 @@
+@use '../variaveis';
+
 .button{
     text-decoration: none;
     padding: 12px;
     font-size: 18px;
     font-weight: 700;
-    background-color:#ffe240;
-    color:#000000;
+    background-color:variaveis.$colorYellow;
+    color:variaveis.$colorBlack;
     border-radius: 5px;
 
 

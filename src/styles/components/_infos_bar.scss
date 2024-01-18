@@ -1,6 +1,8 @@
+@use '../variaveis';
+
 .infos-bar{
     padding: 16px 24px ;
-    background-color:#fff;
+    background-color:variaveis.$colorWhite;
     display: flex;
     justify-content: space-between;
     border-radius: 8px;

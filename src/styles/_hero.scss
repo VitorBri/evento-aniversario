@@ -1,4 +1,7 @@
+@use 'variaveis';
+
 .hero{
+    
     padding-top: 208px ;
     padding-bottom: 100px;
     background-image: url(../imagens/confete.png);
@@ -10,12 +13,12 @@
         line-height: 56px;
         text-align: center;
         font-family:lilita one;
-        color: #fff;
+        color:variaveis.$colorWhite;
         margin-bottom: 68px;
 
         span{
             font-family:lilita one;
-            color: #ffe240;
+            color:variaveis.$colorYellow;
         }
     }
 
