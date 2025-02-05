@@ -22,7 +22,7 @@ O site foi desenvolvido utilizando **HTML, CSS e JavaScript**, garantindo uma in
 ## Instalação e Uso
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/evento-aniversario.git
+   git clone https://github.com/VitorBri/evento-aniversario.git
    ```
 2. Acesse o diretório do projeto:
    ```sh
