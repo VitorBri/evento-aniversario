@@ -1,7 +1,5 @@
 # Evento Aniversário
 
-![Badge](https://img.shields.io/badge/version-1.0-blue.svg)
-
 ## Descrição
 Evento Aniversário é um projeto de estudo que apresenta uma página web responsiva para a divulgação de um evento de aniversário. A aplicação inclui informações sobre o evento, como data, local, confirmação de presença e detalhes personalizados.
 
